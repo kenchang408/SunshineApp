@@ -17,10 +17,9 @@ import java.util.List;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class PlaceholderFragment extends Fragment {
+public class ForecastFragment extends Fragment {
 
-
-    public PlaceholderFragment() {
+    public ForecastFragment() {
         // Required empty public constructor
     }
 
@@ -65,3 +64,4 @@ public class PlaceholderFragment extends Fragment {
     }
 
 }
+
